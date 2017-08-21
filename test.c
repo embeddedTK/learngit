@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(int argc, char *argv[])
+int main(int argc, char **argv)
 {
-	printf("this is a git test file\n");
+	return 1;
 }
